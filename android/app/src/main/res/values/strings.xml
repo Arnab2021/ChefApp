@@ -1,0 +1,6 @@
+<resources>
+    <!--<string name="app_name">Cooked Home</string>-->
+	<string name="app_name">Chef@Home</string>
+	
+	<string name="facebook_app_id">846006772686362</string>	
+</resources>
